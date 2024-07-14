@@ -1,0 +1,4 @@
+[submodule "01Python"]
+	path = 01Python
+	url = https://github.com/som3a13/Embedded-LInux.git
+	branch = main
