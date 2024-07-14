@@ -6,3 +6,7 @@
 	path = Embedded-LInux/01Python
 	url = https://github.com/som3a13/Embedded-LInux.git
 	branch = main
+[submodule "somepy"]
+	path = somepy
+	url = https://github.com/som3a13/Embedded-LInux.git
+	branch = main
